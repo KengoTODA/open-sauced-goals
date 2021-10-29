@@ -1,0 +1,182 @@
+[
+  {
+    "full_name": "jvm-profiling-tools/async-profiler",
+    "stargazers_count": 4461,
+    "open_issues_count": 27,
+    "forks_count": 503
+  },
+  {
+    "full_name": "OWASP/CheatSheetSeries",
+    "stargazers_count": 18829,
+    "open_issues_count": 36,
+    "forks_count": 2638
+  },
+  {
+    "full_name": "T-head-Semi/openc910",
+    "stargazers_count": 384,
+    "open_issues_count": 6,
+    "forks_count": 73
+  },
+  {
+    "full_name": "askgitdev/askgit",
+    "stargazers_count": 2655,
+    "open_issues_count": 10,
+    "forks_count": 73
+  },
+  {
+    "full_name": "microsoft/playwright",
+    "stargazers_count": 30066,
+    "open_issues_count": 383,
+    "forks_count": 1272
+  },
+  {
+    "full_name": "actions/setup-java",
+    "stargazers_count": 546,
+    "open_issues_count": 25,
+    "forks_count": 261
+  },
+  {
+    "full_name": "faastjs/faast.js",
+    "stargazers_count": 1348,
+    "open_issues_count": 12,
+    "forks_count": 32
+  },
+  {
+    "full_name": "questdb/questdb",
+    "stargazers_count": 5063,
+    "open_issues_count": 148,
+    "forks_count": 281
+  },
+  {
+    "full_name": "alibaba/LVS",
+    "stargazers_count": 1787,
+    "open_issues_count": 30,
+    "forks_count": 652
+  },
+  {
+    "full_name": "Kesin11/CIAnalyzer",
+    "stargazers_count": 51,
+    "open_issues_count": 2,
+    "forks_count": 4
+  },
+  {
+    "full_name": "KengoTODA/actions-setup-docker-compose",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 4
+  },
+  {
+    "full_name": "RetireJS/retire.js",
+    "stargazers_count": 2860,
+    "open_issues_count": 28,
+    "forks_count": 361
+  },
+  {
+    "full_name": "kentaro-m/auto-assign-action",
+    "stargazers_count": 102,
+    "open_issues_count": 22,
+    "forks_count": 35
+  },
+  {
+    "full_name": "marko-js/marko",
+    "stargazers_count": 10709,
+    "open_issues_count": 77,
+    "forks_count": 628
+  },
+  {
+    "full_name": "GoogleCloudPlatform/fourkeys",
+    "stargazers_count": 562,
+    "open_issues_count": 25,
+    "forks_count": 176
+  },
+  {
+    "full_name": "plutext/docx4j",
+    "stargazers_count": 1659,
+    "open_issues_count": 178,
+    "forks_count": 1118
+  },
+  {
+    "full_name": "nebula-plugins/gradle-lint-plugin",
+    "stargazers_count": 532,
+    "open_issues_count": 88,
+    "forks_count": 85
+  },
+  {
+    "full_name": "reactivedoc/poc",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "returntocorp/semgrep",
+    "stargazers_count": 5432,
+    "open_issues_count": 305,
+    "forks_count": 239
+  },
+  {
+    "full_name": "reactiverse/es4x",
+    "stargazers_count": 751,
+    "open_issues_count": 46,
+    "forks_count": 69
+  },
+  {
+    "full_name": "KengoTODA/unexpected-groovydoc-reproduction",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "rhysd/actionlint",
+    "stargazers_count": 465,
+    "open_issues_count": 3,
+    "forks_count": 30
+  },
+  {
+    "full_name": "openrewrite/rewrite",
+    "stargazers_count": 373,
+    "open_issues_count": 42,
+    "forks_count": 38
+  },
+  {
+    "full_name": "LouisBrunner/checks-action",
+    "stargazers_count": 55,
+    "open_issues_count": 4,
+    "forks_count": 18
+  },
+  {
+    "full_name": "szpak/CDeliveryBoy",
+    "stargazers_count": 11,
+    "open_issues_count": 10,
+    "forks_count": 2
+  },
+  {
+    "full_name": "Unleash/unleash",
+    "stargazers_count": 4377,
+    "open_issues_count": 33,
+    "forks_count": 315
+  },
+  {
+    "full_name": "m-radzikowski/aws-sdk-client-mock",
+    "stargazers_count": 137,
+    "open_issues_count": 10,
+    "forks_count": 4
+  },
+  {
+    "full_name": "denoland/deno_docker",
+    "stargazers_count": 583,
+    "open_issues_count": 16,
+    "forks_count": 69
+  },
+  {
+    "full_name": "forax/pro",
+    "stargazers_count": 96,
+    "open_issues_count": 7,
+    "forks_count": 15
+  },
+  {
+    "full_name": "openjdk/jdk",
+    "stargazers_count": 11347,
+    "open_issues_count": 230,
+    "forks_count": 2825
+  }
+]
