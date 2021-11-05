@@ -1,37 +1,43 @@
 [
   {
+    "full_name": "KengoTODA/spotbugs-cli",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "jvm-profiling-tools/async-profiler",
-    "stargazers_count": 4479,
-    "open_issues_count": 27,
-    "forks_count": 505
+    "stargazers_count": 4485,
+    "open_issues_count": 28,
+    "forks_count": 506
   },
   {
     "full_name": "OWASP/CheatSheetSeries",
-    "stargazers_count": 18863,
+    "stargazers_count": 18877,
     "open_issues_count": 32,
-    "forks_count": 2645
+    "forks_count": 2649
   },
   {
     "full_name": "T-head-Semi/openc910",
-    "stargazers_count": 400,
+    "stargazers_count": 403,
     "open_issues_count": 7,
-    "forks_count": 78
+    "forks_count": 80
   },
   {
     "full_name": "askgitdev/askgit",
-    "stargazers_count": 2661,
+    "stargazers_count": 2663,
     "open_issues_count": 10,
     "forks_count": 74
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 30146,
-    "open_issues_count": 378,
-    "forks_count": 1278
+    "stargazers_count": 30193,
+    "open_issues_count": 402,
+    "forks_count": 1279
   },
   {
     "full_name": "actions/setup-java",
-    "stargazers_count": 553,
+    "stargazers_count": 552,
     "open_issues_count": 25,
     "forks_count": 263
   },
@@ -39,13 +45,13 @@
     "full_name": "faastjs/faast.js",
     "stargazers_count": 1348,
     "open_issues_count": 12,
-    "forks_count": 32
+    "forks_count": 33
   },
   {
     "full_name": "questdb/questdb",
-    "stargazers_count": 5110,
-    "open_issues_count": 154,
-    "forks_count": 281
+    "stargazers_count": 5640,
+    "open_issues_count": 155,
+    "forks_count": 291
   },
   {
     "full_name": "alibaba/LVS",
@@ -67,33 +73,33 @@
   },
   {
     "full_name": "RetireJS/retire.js",
-    "stargazers_count": 2863,
+    "stargazers_count": 2864,
     "open_issues_count": 28,
     "forks_count": 361
   },
   {
     "full_name": "kentaro-m/auto-assign-action",
     "stargazers_count": 105,
-    "open_issues_count": 22,
+    "open_issues_count": 23,
     "forks_count": 35
   },
   {
     "full_name": "marko-js/marko",
-    "stargazers_count": 10710,
+    "stargazers_count": 10711,
     "open_issues_count": 77,
     "forks_count": 628
   },
   {
     "full_name": "GoogleCloudPlatform/fourkeys",
-    "stargazers_count": 568,
+    "stargazers_count": 573,
     "open_issues_count": 25,
-    "forks_count": 178
+    "forks_count": 180
   },
   {
     "full_name": "plutext/docx4j",
-    "stargazers_count": 1660,
+    "stargazers_count": 1662,
     "open_issues_count": 178,
-    "forks_count": 1118
+    "forks_count": 1117
   },
   {
     "full_name": "nebula-plugins/gradle-lint-plugin",
@@ -109,9 +115,9 @@
   },
   {
     "full_name": "returntocorp/semgrep",
-    "stargazers_count": 5450,
-    "open_issues_count": 307,
-    "forks_count": 242
+    "stargazers_count": 5464,
+    "open_issues_count": 305,
+    "forks_count": 243
   },
   {
     "full_name": "reactiverse/es4x",
@@ -127,15 +133,15 @@
   },
   {
     "full_name": "rhysd/actionlint",
-    "stargazers_count": 483,
-    "open_issues_count": 5,
-    "forks_count": 31
+    "stargazers_count": 488,
+    "open_issues_count": 8,
+    "forks_count": 32
   },
   {
     "full_name": "openrewrite/rewrite",
-    "stargazers_count": 375,
-    "open_issues_count": 44,
-    "forks_count": 39
+    "stargazers_count": 376,
+    "open_issues_count": 41,
+    "forks_count": 40
   },
   {
     "full_name": "LouisBrunner/checks-action",
@@ -151,19 +157,19 @@
   },
   {
     "full_name": "Unleash/unleash",
-    "stargazers_count": 4395,
-    "open_issues_count": 34,
+    "stargazers_count": 4403,
+    "open_issues_count": 35,
     "forks_count": 317
   },
   {
     "full_name": "m-radzikowski/aws-sdk-client-mock",
-    "stargazers_count": 138,
+    "stargazers_count": 145,
     "open_issues_count": 11,
     "forks_count": 4
   },
   {
     "full_name": "denoland/deno_docker",
-    "stargazers_count": 586,
+    "stargazers_count": 587,
     "open_issues_count": 16,
     "forks_count": 69
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 96,
     "open_issues_count": 7,
     "forks_count": 15
-  },
-  {
-    "full_name": "openjdk/jdk",
-    "stargazers_count": 11384,
-    "open_issues_count": 240,
-    "forks_count": 2843
   }
 ]
