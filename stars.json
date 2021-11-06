@@ -7,19 +7,19 @@
   },
   {
     "full_name": "jvm-profiling-tools/async-profiler",
-    "stargazers_count": 4485,
+    "stargazers_count": 4488,
     "open_issues_count": 28,
     "forks_count": 506
   },
   {
     "full_name": "OWASP/CheatSheetSeries",
-    "stargazers_count": 18877,
+    "stargazers_count": 18882,
     "open_issues_count": 32,
-    "forks_count": 2649
+    "forks_count": 2650
   },
   {
     "full_name": "T-head-Semi/openc910",
-    "stargazers_count": 403,
+    "stargazers_count": 406,
     "open_issues_count": 7,
     "forks_count": 80
   },
@@ -31,13 +31,13 @@
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 30193,
-    "open_issues_count": 402,
-    "forks_count": 1279
+    "stargazers_count": 30209,
+    "open_issues_count": 396,
+    "forks_count": 1280
   },
   {
     "full_name": "actions/setup-java",
-    "stargazers_count": 552,
+    "stargazers_count": 553,
     "open_issues_count": 25,
     "forks_count": 263
   },
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "questdb/questdb",
-    "stargazers_count": 5640,
-    "open_issues_count": 155,
-    "forks_count": 291
+    "stargazers_count": 5891,
+    "open_issues_count": 156,
+    "forks_count": 297
   },
   {
     "full_name": "alibaba/LVS",
@@ -85,25 +85,25 @@
   },
   {
     "full_name": "marko-js/marko",
-    "stargazers_count": 10711,
-    "open_issues_count": 77,
+    "stargazers_count": 10712,
+    "open_issues_count": 78,
     "forks_count": 628
   },
   {
     "full_name": "GoogleCloudPlatform/fourkeys",
-    "stargazers_count": 573,
+    "stargazers_count": 574,
     "open_issues_count": 25,
     "forks_count": 180
   },
   {
     "full_name": "plutext/docx4j",
-    "stargazers_count": 1662,
+    "stargazers_count": 1664,
     "open_issues_count": 178,
-    "forks_count": 1117
+    "forks_count": 1118
   },
   {
     "full_name": "nebula-plugins/gradle-lint-plugin",
-    "stargazers_count": 532,
+    "stargazers_count": 533,
     "open_issues_count": 88,
     "forks_count": 85
   },
@@ -115,14 +115,14 @@
   },
   {
     "full_name": "returntocorp/semgrep",
-    "stargazers_count": 5464,
-    "open_issues_count": 305,
+    "stargazers_count": 5470,
+    "open_issues_count": 307,
     "forks_count": 243
   },
   {
     "full_name": "reactiverse/es4x",
     "stargazers_count": 753,
-    "open_issues_count": 46,
+    "open_issues_count": 47,
     "forks_count": 69
   },
   {
@@ -133,14 +133,14 @@
   },
   {
     "full_name": "rhysd/actionlint",
-    "stargazers_count": 488,
-    "open_issues_count": 8,
-    "forks_count": 32
+    "stargazers_count": 508,
+    "open_issues_count": 9,
+    "forks_count": 34
   },
   {
     "full_name": "openrewrite/rewrite",
     "stargazers_count": 376,
-    "open_issues_count": 41,
+    "open_issues_count": 46,
     "forks_count": 40
   },
   {
@@ -157,19 +157,19 @@
   },
   {
     "full_name": "Unleash/unleash",
-    "stargazers_count": 4403,
-    "open_issues_count": 35,
+    "stargazers_count": 4405,
+    "open_issues_count": 39,
     "forks_count": 317
   },
   {
     "full_name": "m-radzikowski/aws-sdk-client-mock",
-    "stargazers_count": 145,
+    "stargazers_count": 146,
     "open_issues_count": 11,
     "forks_count": 4
   },
   {
     "full_name": "denoland/deno_docker",
-    "stargazers_count": 587,
+    "stargazers_count": 586,
     "open_issues_count": 16,
     "forks_count": 69
   },
