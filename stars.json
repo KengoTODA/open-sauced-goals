@@ -1,21 +1,21 @@
 [
   {
     "full_name": "EsotericSoftware/kryo",
-    "stargazers_count": 5249,
+    "stargazers_count": 5253,
     "open_issues_count": 21,
-    "forks_count": 764
+    "forks_count": 763
   },
   {
     "full_name": "jorgenkg/promise-priority-queue",
     "stargazers_count": 3,
-    "open_issues_count": 5,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "atlassian/changesets",
-    "stargazers_count": 2316,
-    "open_issues_count": 172,
-    "forks_count": 156
+    "stargazers_count": 2327,
+    "open_issues_count": 173,
+    "forks_count": 157
   },
   {
     "full_name": "KengoTODA/spotbugs-cli",
@@ -25,37 +25,37 @@
   },
   {
     "full_name": "jvm-profiling-tools/async-profiler",
-    "stargazers_count": 4631,
-    "open_issues_count": 33,
-    "forks_count": 519
+    "stargazers_count": 4639,
+    "open_issues_count": 34,
+    "forks_count": 521
   },
   {
     "full_name": "OWASP/CheatSheetSeries",
-    "stargazers_count": 19361,
-    "open_issues_count": 36,
+    "stargazers_count": 19390,
+    "open_issues_count": 37,
     "forks_count": 2719
   },
   {
     "full_name": "T-head-Semi/openc910",
-    "stargazers_count": 470,
+    "stargazers_count": 472,
     "open_issues_count": 7,
     "forks_count": 105
   },
   {
     "full_name": "mergestat/mergestat",
-    "stargazers_count": 2709,
+    "stargazers_count": 2714,
     "open_issues_count": 11,
     "forks_count": 77
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 31652,
-    "open_issues_count": 443,
-    "forks_count": 1382
+    "stargazers_count": 31735,
+    "open_issues_count": 456,
+    "forks_count": 1390
   },
   {
     "full_name": "actions/setup-java",
-    "stargazers_count": 589,
+    "stargazers_count": 590,
     "open_issues_count": 30,
     "forks_count": 297
   },
@@ -67,33 +67,33 @@
   },
   {
     "full_name": "questdb/questdb",
-    "stargazers_count": 7573,
-    "open_issues_count": 181,
-    "forks_count": 400
+    "stargazers_count": 7613,
+    "open_issues_count": 185,
+    "forks_count": 403
   },
   {
     "full_name": "alibaba/LVS",
-    "stargazers_count": 1806,
+    "stargazers_count": 1807,
     "open_issues_count": 30,
-    "forks_count": 655
+    "forks_count": 656
   },
   {
     "full_name": "Kesin11/CIAnalyzer",
     "stargazers_count": 51,
-    "open_issues_count": 4,
+    "open_issues_count": 2,
     "forks_count": 4
   },
   {
     "full_name": "KengoTODA/actions-setup-docker-compose",
     "stargazers_count": 2,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "RetireJS/retire.js",
-    "stargazers_count": 2912,
+    "stargazers_count": 2914,
     "open_issues_count": 28,
-    "forks_count": 364
+    "forks_count": 365
   },
   {
     "full_name": "kentaro-m/auto-assign-action",
@@ -103,19 +103,19 @@
   },
   {
     "full_name": "marko-js/marko",
-    "stargazers_count": 10807,
-    "open_issues_count": 77,
+    "stargazers_count": 10810,
+    "open_issues_count": 78,
     "forks_count": 625
   },
   {
     "full_name": "GoogleCloudPlatform/fourkeys",
-    "stargazers_count": 637,
+    "stargazers_count": 643,
     "open_issues_count": 26,
-    "forks_count": 199
+    "forks_count": 200
   },
   {
     "full_name": "plutext/docx4j",
-    "stargazers_count": 1693,
+    "stargazers_count": 1694,
     "open_issues_count": 173,
     "forks_count": 1124
   },
@@ -133,15 +133,15 @@
   },
   {
     "full_name": "returntocorp/semgrep",
-    "stargazers_count": 5681,
-    "open_issues_count": 288,
-    "forks_count": 257
+    "stargazers_count": 5694,
+    "open_issues_count": 281,
+    "forks_count": 260
   },
   {
     "full_name": "reactiverse/es4x",
-    "stargazers_count": 766,
+    "stargazers_count": 769,
     "open_issues_count": 39,
-    "forks_count": 69
+    "forks_count": 70
   },
   {
     "full_name": "KengoTODA/unexpected-groovydoc-reproduction",
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "rhysd/actionlint",
-    "stargazers_count": 557,
-    "open_issues_count": 26,
-    "forks_count": 38
+    "stargazers_count": 560,
+    "open_issues_count": 25,
+    "forks_count": 39
   },
   {
     "full_name": "openrewrite/rewrite",
-    "stargazers_count": 395,
-    "open_issues_count": 51,
-    "forks_count": 43
+    "stargazers_count": 397,
+    "open_issues_count": 53,
+    "forks_count": 44
   },
   {
     "full_name": "LouisBrunner/checks-action",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "Unleash/unleash",
-    "stargazers_count": 4718,
+    "stargazers_count": 4733,
     "open_issues_count": 42,
     "forks_count": 339
   }
