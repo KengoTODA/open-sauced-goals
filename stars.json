@@ -1,7 +1,7 @@
 [
   {
     "full_name": "EsotericSoftware/kryo",
-    "stargazers_count": 5261,
+    "stargazers_count": 5264,
     "open_issues_count": 22,
     "forks_count": 763
   },
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "atlassian/changesets",
-    "stargazers_count": 2433,
+    "stargazers_count": 2453,
     "open_issues_count": 174,
     "forks_count": 162
   },
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "jvm-profiling-tools/async-profiler",
-    "stargazers_count": 4656,
+    "stargazers_count": 4665,
     "open_issues_count": 34,
-    "forks_count": 525
+    "forks_count": 528
   },
   {
     "full_name": "OWASP/CheatSheetSeries",
-    "stargazers_count": 19443,
+    "stargazers_count": 19467,
     "open_issues_count": 37,
-    "forks_count": 2731
+    "forks_count": 2734
   },
   {
     "full_name": "T-head-Semi/openc910",
@@ -43,21 +43,21 @@
   },
   {
     "full_name": "mergestat/mergestat",
-    "stargazers_count": 2719,
-    "open_issues_count": 11,
+    "stargazers_count": 2723,
+    "open_issues_count": 10,
     "forks_count": 77
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 31891,
-    "open_issues_count": 354,
-    "forks_count": 1406
+    "stargazers_count": 31984,
+    "open_issues_count": 353,
+    "forks_count": 1409
   },
   {
     "full_name": "actions/setup-java",
-    "stargazers_count": 593,
+    "stargazers_count": 596,
     "open_issues_count": 26,
-    "forks_count": 296
+    "forks_count": 297
   },
   {
     "full_name": "faastjs/faast.js",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "questdb/questdb",
-    "stargazers_count": 7701,
-    "open_issues_count": 179,
-    "forks_count": 404
+    "stargazers_count": 7721,
+    "open_issues_count": 180,
+    "forks_count": 405
   },
   {
     "full_name": "alibaba/LVS",
@@ -80,7 +80,7 @@
   {
     "full_name": "Kesin11/CIAnalyzer",
     "stargazers_count": 52,
-    "open_issues_count": 1,
+    "open_issues_count": 3,
     "forks_count": 4
   },
   {
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "RetireJS/retire.js",
-    "stargazers_count": 2922,
+    "stargazers_count": 2924,
     "open_issues_count": 28,
-    "forks_count": 365
+    "forks_count": 366
   },
   {
     "full_name": "kentaro-m/auto-assign-action",
@@ -103,25 +103,25 @@
   },
   {
     "full_name": "marko-js/marko",
-    "stargazers_count": 10823,
-    "open_issues_count": 78,
+    "stargazers_count": 10836,
+    "open_issues_count": 77,
     "forks_count": 624
   },
   {
     "full_name": "GoogleCloudPlatform/fourkeys",
-    "stargazers_count": 651,
-    "open_issues_count": 25,
+    "stargazers_count": 657,
+    "open_issues_count": 27,
     "forks_count": 202
   },
   {
     "full_name": "plutext/docx4j",
-    "stargazers_count": 1699,
-    "open_issues_count": 171,
-    "forks_count": 1124
+    "stargazers_count": 1700,
+    "open_issues_count": 172,
+    "forks_count": 1126
   },
   {
     "full_name": "nebula-plugins/gradle-lint-plugin",
-    "stargazers_count": 545,
+    "stargazers_count": 546,
     "open_issues_count": 94,
     "forks_count": 85
   },
@@ -133,13 +133,13 @@
   },
   {
     "full_name": "returntocorp/semgrep",
-    "stargazers_count": 5721,
-    "open_issues_count": 286,
+    "stargazers_count": 5730,
+    "open_issues_count": 287,
     "forks_count": 264
   },
   {
     "full_name": "reactiverse/es4x",
-    "stargazers_count": 769,
+    "stargazers_count": 771,
     "open_issues_count": 43,
     "forks_count": 70
   },
@@ -151,19 +151,19 @@
   },
   {
     "full_name": "rhysd/actionlint",
-    "stargazers_count": 563,
-    "open_issues_count": 28,
+    "stargazers_count": 569,
+    "open_issues_count": 30,
     "forks_count": 41
   },
   {
     "full_name": "openrewrite/rewrite",
-    "stargazers_count": 401,
-    "open_issues_count": 55,
+    "stargazers_count": 402,
+    "open_issues_count": 54,
     "forks_count": 44
   },
   {
     "full_name": "LouisBrunner/checks-action",
-    "stargazers_count": 60,
+    "stargazers_count": 61,
     "open_issues_count": 6,
     "forks_count": 21
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "Unleash/unleash",
-    "stargazers_count": 4767,
-    "open_issues_count": 45,
+    "stargazers_count": 4786,
+    "open_issues_count": 43,
     "forks_count": 342
   }
 ]
